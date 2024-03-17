@@ -26,6 +26,5 @@ read -p "Enter the number of rows: " rows
 
 # Call function to print triangle pattern
 print_triangle $rows
-```
 
 This script prompts the user to enter the number of rows for the triangle and then prints the triangle star pattern accordingly.
