@@ -26,3 +26,6 @@ read -p "Enter the number of rows: " rows
 
 # Call function to print triangle pattern
 print_triangle $rows
+
+
+echo "hello world"
